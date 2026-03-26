@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="https://github.com/Tronor-LLC/tronor/releases/latest"><img src="https://img.shields.io/github/v/release/Tronor-LLC/tronor?label=latest%20release&color=18181b&labelColor=27272a&style=flat-square" alt="Latest Release" /></a>
-  <a href="https://github.com/Tronor-LLC/tronor/releases"><img src="https://img.shields.io/github/downloads/Tronor-LLC/tronor/total?color=18181b&labelColor=27272a&style=flat-square" alt="Downloads" /></a>
   <a href="https://sketch.tronor.com"><img src="https://img.shields.io/badge/web%20app-sketch.tronor.com-18181b?labelColor=27272a&style=flat-square" alt="Web App" /></a>
 </p>
 
