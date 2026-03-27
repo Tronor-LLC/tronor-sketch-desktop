@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Tronor-LLC/tronor/releases/latest"><img src="https://img.shields.io/github/v/release/Tronor-LLC/tronor?label=latest%20release&color=18181b&labelColor=27272a&style=flat-square" alt="Latest Release" /></a>
+  <a href="https://github.com/Tronor-LLC/tronor-sketch-desktop/releases/latest"><img src="https://img.shields.io/github/v/release/Tronor-LLC/tronor-sketch-desktop?label=latest%20release&color=18181b&labelColor=27272a&style=flat-square" alt="Latest Release" /></a>
   <a href="https://sketch.tronor.com"><img src="https://img.shields.io/badge/web%20app-sketch.tronor.com-18181b?labelColor=27272a&style=flat-square" alt="Web App" /></a>
 </p>
 
@@ -17,7 +17,7 @@
 
 ## Download
 
-Download the latest version from the [**Releases**](https://github.com/Tronor-LLC/tronor/releases/latest) page.
+Download the latest version from the [**Releases**](https://github.com/Tronor-LLC/tronor-sketch-desktop/releases/latest) page.
 
 | Platform | File | Notes |
 |----------|------|-------|
@@ -40,7 +40,7 @@ The desktop app wraps the same web experience in a native shell, giving you:
 
 ## Auto-Updates
 
-The app checks for updates every 4 hours. When a new version is available, you'll see a notification and can restart to apply the update. Updates are served directly from this repository's [Releases](https://github.com/Tronor-LLC/tronor/releases).
+The app checks for updates every 4 hours. When a new version is available, you'll see a notification and can restart to apply the update. Updates are served directly from this repository's [Releases](https://github.com/Tronor-LLC/tronor-sketch-desktop/releases).
 
 ## Versioning
 
@@ -67,7 +67,7 @@ Internet connection required — the app loads [sketch.tronor.com](https://sketc
 
 ## Feedback & Support
 
-If you run into any issues or have feature requests, please [open an issue](https://github.com/Tronor-LLC/tronor/issues) on this repository.
+If you run into any issues or have feature requests, please [open an issue](https://github.com/Tronor-LLC/tronor-sketch-desktop/issues) on this repository.
 
 ---
 
