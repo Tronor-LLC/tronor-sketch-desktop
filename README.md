@@ -5,7 +5,7 @@
 <h1 align="center">T-Sketch for Desktop</h1>
 
 <p align="center">
-  The native macOS app for <a href="https://sketch.tronor.com">T-Sketch</a> — a collaborative drawing and design tool by <a href="https://www.tronor.com">Tronor</a>.
+  The native desktop app for <a href="https://sketch.tronor.com">T-Sketch</a> — a collaborative drawing and design tool by <a href="https://www.tronor.com">Tronor</a>.
 </p>
 
 <p align="center">
@@ -22,17 +22,16 @@ Download the latest version from the [**Releases**](https://github.com/Tronor-LL
 | Platform | File | Notes |
 |----------|------|-------|
 | **macOS** (Apple Silicon & Intel) | `T-Sketch-x.x.x-arm64.dmg` | Signed & notarized by Apple |
-
-> Windows and Linux versions are coming soon.
+| **Windows** (64-bit) | `T-Sketch-x.x.x Setup.exe` | Code-signed installer |
 
 ## What is T-Sketch?
 
 T-Sketch is a collaborative drawing and design application built for the web. It supports real-time collaboration, an infinite canvas, and a full set of drawing tools — all running in your browser at [sketch.tronor.com](https://sketch.tronor.com).
 
-The desktop app wraps the same web experience in a native macOS shell, giving you:
+The desktop app wraps the same web experience in a native shell, giving you:
 
-- **Native macOS window** with traffic-light controls and a frameless design
-- **Dock icon** that persists across reboots
+- **Native window** — frameless design with traffic-light controls on macOS, standard title bar on Windows
+- **Dock / Taskbar icon** that persists across reboots
 - **Auto-updates** — new versions are delivered automatically via this repository
 - **Deep linking** — `tsketch://` URLs open directly in the app
 - **Native file dialogs** for export and import
@@ -49,9 +48,12 @@ Versions follow the format **`YYYY.MMDD.HHmm`** (e.g., `2026.326.1438`), matchin
 
 ## System Requirements
 
-- **macOS 12 (Monterey)** or later
-- Apple Silicon (M1/M2/M3/M4) or Intel processor
-- Internet connection required (the app loads [sketch.tronor.com](https://sketch.tronor.com))
+| Platform | Requirement |
+|----------|-------------|
+| **macOS** | macOS 12 (Monterey) or later, Apple Silicon or Intel |
+| **Windows** | Windows 10 or later (64-bit) |
+
+Internet connection required — the app loads [sketch.tronor.com](https://sketch.tronor.com).
 
 ## Links
 
